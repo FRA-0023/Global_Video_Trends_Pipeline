@@ -1,8 +1,9 @@
-﻿# 📹 Global Video Trends: Scalable Multi-Country Data Engineering Pipeline
+# 📹 Global Video Trends: Scalable Multi-Country Data Engineering Pipeline
 
 [![Language](https://img.shields.io/badge/Language-Python%203.10+-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![Engine](https://img.shields.io/badge/Engine-Pandas%20%7C%20Relational%20ETL-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Data](https://img.shields.io/badge/Dataset-Global%20YouTube%20Trending-red?logo=youtube)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > High-performance data wrangling and relational schema harmonization on high-cardinality, multi-country video streaming datasets in Python & Pandas.
 
